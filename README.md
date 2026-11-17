@@ -88,10 +88,21 @@ options (epochs, learning rates, prior strength, model width).
 - Runs are deterministic for a fixed seed. The paper averages five seeds (42, 100, 123, 456, 789)
   over five folds.
 
+## Data Availability
+
+The processed datasets — the three RPPA cohorts and the PTM–disease association matrix — are
+archived on Zenodo under a citable DOI:
+
+> **PTM-AGT dataset v1.0.0** — <https://doi.org/10.5281/zenodo.24301397>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24301397.svg)](https://doi.org/10.5281/zenodo.24301397)
+
 ## Citation
 
 > Liu W, Yang W, Li K, Guo L, Zhan Y, Huang H, Zhang R. PTM-AGT: a post-translational
 > modification-guided adaptive graph Transformer network for cancer subtype classification.
 > *(journal and volume to be added)*
+
+If you reuse the data, please cite the dataset DOI above in addition to the paper.
 
 Please contact Wenhao Yang (wenhaoyang@nyist.edu.cn) for questions or corrections.
