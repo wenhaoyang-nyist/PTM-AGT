@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Experiment outputs
+results/
+*.pt
+*.pth
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
